@@ -64,5 +64,10 @@ Experience
     Coaching of beginner's and intermediate junior and senior fencers.
     Fencers at regional and national level.
 
+* __2014-__ Regional sabre coach for Yorkshire.
+    Sabre.
+    Individual and group coaching of national and international competitive 
+    fencers from across the Yorkshire region at quarterly regional hub days.
+
 * __2014__ FIE Coaching Diploma.  
     Sabre - Dr. Szepesi László
