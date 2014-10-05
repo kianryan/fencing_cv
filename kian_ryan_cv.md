@@ -1,7 +1,7 @@
 Curriculum Vitae - Kian Ronan Ashton Ryan
 -----------------------------------------
 
-Date: 2nd October 2014
+Date: 5nd October 2014
 
 Personal
 ========
@@ -10,13 +10,25 @@ Personal
 * E-mail: kian@orangetentacle.co.uk
 * Phone: +44 (0) 798 333 43 24
 
+Education
+=========
+
+* __2001-2004__ Durham University - BSc(Hons) Computer Science
+
 Qualifications
 ==============
 
-* FIE Coaching Diploma - Sabre.
-* British Fencing Level 4 - Foil, Epee, Sabre.  
-* SCUK - Introduction to Long Term Athlete Development.  
-* SCUK - Safeguarding and Protecting Children.
+* __2015__ FIE Diploma - Sabre.
+* __2009__ British Fencing Level 4 - Foil, Epee, Sabre.  
+
+CPD
+===
+
+* __2014__ British Red Cross - Emergency First Aid At Work.
+* __2014__ SCUK - Safeguarding and Protecting Children 2.
+* __2013__ SCUK - Introduction to Long Term Athlete Development.  
+* __2013__ SCUK - Introduction to Fundamentals of Movement.
+* __2011__ SCUK - Safeguarding and Protecting Children.
 
 Experience
 ==========
