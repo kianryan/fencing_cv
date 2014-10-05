@@ -1,6 +1,15 @@
 Curriculum Vitae - Kian Ronan Ashton Ryan
 -----------------------------------------
 
+Date: 2nd October 2014
+
+Personal
+========
+
+* Nationality: British & Irish
+* E-mail: kian@orangetentacle.co.uk
+* Phone: +44 (0) 798 333 43 24
+
 Qualifications
 ==============
 
@@ -45,6 +54,7 @@ Experience
     senior and veteran competitive fencers.
 
 * __2012-2013__ Junior coach at Sheffield Fencing Club.  
+    Sabre and Epee.
     Responsible for establishing a youth program, education of beginners and 
     progression of more experienced juniors.  Started competitive program with 
     junior fencers gaining experience on regional and national competitive 
